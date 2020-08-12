@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+
+.jumbotron-text{
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+}
+i{
+    font-size: 20px;
+}
+.user_data{
+    margin-left: 5px;
+    margin-top: 10px;
+    padding:10px;
+    background-color: rgba(132, 0, 255, 0.657);
+    border-radius: 10px;
+}
+.crud_database{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding:10px;
+    background-color: rgb(189, 189, 171);
+    border-radius: 10px;
+}
+i.btnedit{
+    color: chocolate;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.success{
+    background-color: lightgreen;
+    padding: 1em;
+}
+
+.error{
+    background-color: tomato;
+    padding: 1em;
+}
+.msgstyle{
+    font-family: 'Merriweather', serif;
+}
